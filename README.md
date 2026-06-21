@@ -9,7 +9,7 @@ This project started as a way for me to practice React after completing my first
 * Browse Pokémon using data from the PokéAPI
 * Search Pokémon by name
 * Displays Pokémon image, type, height, and weight
-* View base stats including:
+* View base stats like:
 
   * HP
   * Attack
@@ -21,7 +21,7 @@ This project started as a way for me to practice React after completing my first
 ## Tech Stack
 
 * React 19
-* JavaScript (ES6+)
+* JavaScript
 * CSS3
 * PokéAPI
 
