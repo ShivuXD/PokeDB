@@ -67,6 +67,6 @@ Pokémon data provided by the PokéAPI:
 ### Live Demo
 
 
-https://your-pokedb.vercel.app
+https://v0-pokedb.vercel.app/
 
 
