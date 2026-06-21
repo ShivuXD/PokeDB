@@ -20,7 +20,7 @@ This project started as a way for me to practice React after completing my first
 
 ## Tech Stack
 
-* React
+* React 19
 * JavaScript (ES6+)
 * CSS3
 * PokéAPI
